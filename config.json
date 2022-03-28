@@ -1,5 +1,5 @@
 {
-    "default_server_name": "matrix.org",
+    "default_server_name": "converser.eu",
     "brand": "Element",
     "integrations_ui_url": "https://scalar.vector.im/",
     "integrations_rest_url": "https://scalar.vector.im/api",
